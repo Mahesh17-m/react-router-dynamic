@@ -35,6 +35,13 @@ Here’s a preview of the app:
 ![App Screenshot](public/screenshot1.png)
 
 ---
+## Screenshots
+
+Here’s a preview of the app:
+
+![App Screenshot](public/screenshot2.png)
+
+---
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
